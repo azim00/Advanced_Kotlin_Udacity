@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Advanced Kotlin Udacity</string>
+    <string name="notificationChannel1">Channel 1</string>
+    <string name="notificationChannelHumanName1">Cooking Details</string>
+    <string name="notificationChannelDescription1">Sending simple notification to the user</string>
 </resources>
